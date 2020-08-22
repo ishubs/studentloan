@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0caa32b4998f2c5ab706e9b085496b3",
+    "revision": "08e0355a7bbb81af5f277fd14dd8e03f",
     "url": "/studentloan/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studentloan/static/css/2.b8d68ac6.chunk.css"
   },
   {
-    "revision": "cb2f79c830bf9dee7932",
+    "revision": "36f067c3a9639b10b290",
     "url": "/studentloan/static/css/main.a612d558.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studentloan/static/js/2.be3342e5.chunk.js"
   },
   {
-    "revision": "cb2f79c830bf9dee7932",
-    "url": "/studentloan/static/js/main.d5e12a28.chunk.js"
+    "revision": "36f067c3a9639b10b290",
+    "url": "/studentloan/static/js/main.afd4c190.chunk.js"
   },
   {
     "revision": "9e302a458961353c5998",
