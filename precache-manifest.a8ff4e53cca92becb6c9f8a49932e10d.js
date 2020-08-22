@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08e0355a7bbb81af5f277fd14dd8e03f",
+    "revision": "2255440f115943aa02bdea1b80c9c6bf",
     "url": "/studentloan/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studentloan/static/css/2.b8d68ac6.chunk.css"
   },
   {
-    "revision": "36f067c3a9639b10b290",
+    "revision": "2691e321bc87bcfcc8ce",
     "url": "/studentloan/static/css/main.a612d558.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studentloan/static/js/2.be3342e5.chunk.js"
   },
   {
-    "revision": "36f067c3a9639b10b290",
-    "url": "/studentloan/static/js/main.afd4c190.chunk.js"
+    "revision": "2691e321bc87bcfcc8ce",
+    "url": "/studentloan/static/js/main.30a0804d.chunk.js"
   },
   {
     "revision": "9e302a458961353c5998",
@@ -174,9 +174,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2801fb415f03c7b170934769d7b5397",
     "url": "/studentloan/static/media/fa-solid-900.c2801fb4.svg"
-  },
-  {
-    "revision": "7f6de6cef4b59e7f16428c448fa1a7a1",
-    "url": "/studentloan/static/media/logo.7f6de6ce.png"
   }
 ]);

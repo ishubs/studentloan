@@ -1,28 +1,27 @@
 {
   "files": {
     "main.css": "/studentloan/static/css/main.a612d558.chunk.css",
-    "main.js": "/studentloan/static/js/main.afd4c190.chunk.js",
-    "main.js.map": "/studentloan/static/js/main.afd4c190.chunk.js.map",
+    "main.js": "/studentloan/static/js/main.30a0804d.chunk.js",
+    "main.js.map": "/studentloan/static/js/main.30a0804d.chunk.js.map",
     "runtime-main.js": "/studentloan/static/js/runtime-main.3abdb7f4.js",
     "runtime-main.js.map": "/studentloan/static/js/runtime-main.3abdb7f4.js.map",
     "static/css/2.b8d68ac6.chunk.css": "/studentloan/static/css/2.b8d68ac6.chunk.css",
     "static/js/2.be3342e5.chunk.js": "/studentloan/static/js/2.be3342e5.chunk.js",
     "static/js/2.be3342e5.chunk.js.map": "/studentloan/static/js/2.be3342e5.chunk.js.map",
     "index.html": "/studentloan/index.html",
-    "precache-manifest.c5f5108ad72de6fe4d9c9db5c6e186d8.js": "/studentloan/precache-manifest.c5f5108ad72de6fe4d9c9db5c6e186d8.js",
+    "precache-manifest.a8ff4e53cca92becb6c9f8a49932e10d.js": "/studentloan/precache-manifest.a8ff4e53cca92becb6c9f8a49932e10d.js",
     "service-worker.js": "/studentloan/service-worker.js",
     "static/css/2.b8d68ac6.chunk.css.map": "/studentloan/static/css/2.b8d68ac6.chunk.css.map",
     "static/css/main.a612d558.chunk.css.map": "/studentloan/static/css/main.a612d558.chunk.css.map",
     "static/media/Maya-avatar.jpg": "/studentloan/static/media/Maya-avatar.45e6b951.jpg",
     "static/media/mdb.css": "/studentloan/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/studentloan/static/media/fa-solid-900.c2801fb4.svg",
-    "static/media/logo.png": "/studentloan/static/media/logo.7f6de6ce.png"
+    "static/media/all.min.css": "/studentloan/static/media/fa-solid-900.c2801fb4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3abdb7f4.js",
     "static/css/2.b8d68ac6.chunk.css",
     "static/js/2.be3342e5.chunk.js",
     "static/css/main.a612d558.chunk.css",
-    "static/js/main.afd4c190.chunk.js"
+    "static/js/main.30a0804d.chunk.js"
   ]
 }
